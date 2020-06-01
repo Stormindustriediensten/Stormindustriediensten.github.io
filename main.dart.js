@@ -55332,42 +55332,42 @@ return B.TZ(new D.a2p(this.a,O.bT(r.a.c,r.b),t),t.P$.length)}}},
 $C:"$2",
 $R:2}
 D.a2p.prototype={
-$2:function(a,b){var t,s,r,q,p,o,n,m,l,k,j,i,h=null,g="-",f=this.b,e=f.gam(f),d=this.c
-if(!C.b.F(P.as(e,!0,H.B(e).j("j.E")),d.P$[b].a)){e=d.P$[b]
+$2:function(a,b){var t,s,r,q,p,o,n,m,l,k,j,i,h=null,g="Uitgevoerd werk binnen vaste klussen..",f="-",e=this.b,d=e.gam(e),c=this.c
+if(!C.b.F(P.as(d,!0,H.B(d).j("j.E")),c.P$[b].a)){d=c.P$[b]
 t=u.N
-f.Y(0,P.a3([e.a,P.a3(["time",e.e,"ray",e.b,"sub",e.c,"men",e.d,"hours",e.z,"numoperators",e.r,"nummachinists",e.y,"numcleaners",e.f,"numhds",e.x],t,u.K)],t,u.z))}e=this.a
-t=f.gam(f)
+e.Y(0,P.a3([d.a,P.a3(["time",d.e,"ray",d.b,"sub",d.c,"men",d.d,"hours",d.z,"numoperators",d.r,"nummachinists",d.y,"numcleaners",d.f,"numhds",d.x],t,u.K)],t,u.z))}d=this.a
+t=e.gam(e)
 t=F.abw(P.as(t,!0,H.B(t).j("j.E")))
-s=d.P$[b].a
+s=c.P$[b].a
 s=s!==""?s:h
-r=L.ac("Select an job",h,h,h,A.bh(h,h,C.aq,h,h,h,h,h,h,h,h,h,h,h,h,h,!0,h,h,h,h,h,h),h,h)
+r=L.ac(g,h,h,h,A.bh(h,h,C.aq,h,h,h,h,h,h,h,h,h,h,h,h,h,!0,h,h,h,h,h,h),h,h)
 q=A.bh(h,h,C.aq,h,h,h,h,h,h,h,h,F.af(a,!1).a.b*0.017,h,h,h,h,!0,h,h,h,h,h,h)
-s=K.aaA(r,F.af(a,!1).a.b*0.017,!0,t,new D.a2n(e,d,b,f),"Select a job",q,s,u.z)
-q=d.P$[b]
-f=q.b
-if(f==null)f=g
+s=K.aaA(r,F.af(a,!1).a.b*0.017,!0,t,new D.a2n(d,c,b,e),g,q,s,u.z)
+q=c.P$[b]
+e=q.b
+if(e==null)e=f
 t=q.c
-if(t==null)t=g
+if(t==null)t=f
 r=q.d
-if(r==null)r=g
+if(r==null)r=f
 p=q.e
-if(p==null)p=g
-q=e.R7(q.z,"Hours..")
-o=d.P$[b]
+if(p==null)p=f
+q=d.R7(q.z,"Hours..")
+o=c.P$[b]
 n=o.f
-if(n==null)n=g
+if(n==null)n=f
 m=o.r
-if(m==null)m=g
+if(m==null)m=f
 l=o.x
-if(l==null)l=g
+if(l==null)l=f
 o=o.y
-if(o==null)o=g
-d=d.hS()?new T.di(C.ha,h,h,B.eK(C.k,L.d9(C.mg,h,15),25,new D.a2o(e,d,b),h),h):M.F(h,h,h,h,h,h,h,h,h,h,h)
-k=e.e
-j=e.d/60
+if(o==null)o=f
+c=c.hS()?new T.di(C.ha,h,h,B.eK(C.k,L.d9(C.mg,h,15),25,new D.a2o(d,c,b),h),h):M.F(h,h,h,h,h,h,h,h,h,h,h)
+k=d.e
+j=d.d/60
 i=P.kX(243,243,243,1)
-e=e.d/30
-return M.F(h,M.F(h,T.js(H.a([new T.an(5,C.n,s,h),new T.an(1,C.n,new T.aA(C.m,h,h,new S.bb(f,C.k,C.y,C.p,1,h),h),h),new T.an(1,C.n,new T.aA(C.m,h,h,new S.bb(t,C.k,C.y,C.p,1,h),h),h),new T.an(1,C.n,new T.aA(C.m,h,h,new S.bb(r,C.k,C.y,C.p,1,h),h),h),new T.an(1,C.n,new T.aA(C.m,h,h,new S.bb(p,C.k,C.y,C.p,1,h),h),h),new T.an(1,C.n,q,h),new T.an(1,C.n,new T.aA(C.m,h,h,new S.bb(n,C.k,C.y,C.p,1,h),h),h),new T.an(1,C.n,new T.aA(C.m,h,h,new S.bb(m,C.k,C.y,C.p,1,h),h),h),new T.an(1,C.n,new T.aA(C.m,h,h,new S.bb(l,C.k,C.y,C.p,1,h),h),h),new T.an(1,C.n,new T.aA(C.m,h,h,new S.bb(o,C.k,C.y,C.p,1,h),h),h),new T.an(1,C.n,new T.aA(C.m,h,h,d,h),h)],u.p),C.v,C.q,h,C.w,C.u,h,h,C.aA),h,h,h,h,h,h,new V.T(e,0,e,0),h,h),i,h,h,h,k/16,new V.T(j,0,j,0),h,h,h)},
+d=d.d/30
+return M.F(h,M.F(h,T.js(H.a([new T.an(5,C.n,s,h),new T.an(1,C.n,new T.aA(C.m,h,h,new S.bb(e,C.k,C.y,C.p,1,h),h),h),new T.an(1,C.n,new T.aA(C.m,h,h,new S.bb(t,C.k,C.y,C.p,1,h),h),h),new T.an(1,C.n,new T.aA(C.m,h,h,new S.bb(r,C.k,C.y,C.p,1,h),h),h),new T.an(1,C.n,new T.aA(C.m,h,h,new S.bb(p,C.k,C.y,C.p,1,h),h),h),new T.an(1,C.n,q,h),new T.an(1,C.n,new T.aA(C.m,h,h,new S.bb(n,C.k,C.y,C.p,1,h),h),h),new T.an(1,C.n,new T.aA(C.m,h,h,new S.bb(m,C.k,C.y,C.p,1,h),h),h),new T.an(1,C.n,new T.aA(C.m,h,h,new S.bb(l,C.k,C.y,C.p,1,h),h),h),new T.an(1,C.n,new T.aA(C.m,h,h,new S.bb(o,C.k,C.y,C.p,1,h),h),h),new T.an(1,C.n,new T.aA(C.m,h,h,c,h),h)],u.p),C.v,C.q,h,C.w,C.u,h,h,C.aA),h,h,h,h,h,h,new V.T(d,0,d,0),h,h),i,h,h,h,k/16,new V.T(j,0,j,0),h,h,h)},
 $C:"$2",
 $R:2}
 D.a2n.prototype={
@@ -55437,7 +55437,7 @@ $3:function(a,b,c){return B.TZ(new L.a5K(this.a,c),c.au$.length)},
 $C:"$3",
 $R:3}
 L.a5K.prototype={
-$2:function(a,b){var t,s,r,q=null,p=this.a,o=this.b,n=p.mr(o.au$[b].a,"Directive work name.."),m=p.mr(o.au$[b].b,"Directive work description.."),l=p.mr(o.au$[b].c,"Men.."),k=p.mr(o.au$[b].d,"Time.."),j=p.mr(o.au$[b].e,"Hours..")
+$2:function(a,b){var t,s,r,q=null,p=this.a,o=this.b,n=p.mr(o.au$[b].a,"Uitgevoerd werk op regie.."),m=p.mr(o.au$[b].b,"RAY.."),l=p.mr(o.au$[b].c,"Men.."),k=p.mr(o.au$[b].d,"Tijd.."),j=p.mr(o.au$[b].e,"Tijd..")
 o=o.hS()?new T.di(C.ha,q,q,B.eK(C.k,L.d9(C.mg,q,15),25,new L.a5J(p,o,b),q),q):M.F(q,q,q,q,q,q,q,q,q,q,q)
 t=p.e
 s=p.d/60
@@ -55637,7 +55637,7 @@ F.ul.prototype={
 a6:function(){return new F.JU(P.a3(["companyVAT",null,"companyName",null],u.N,u.z),new N.b8(null,u.jH),C.l)}}
 F.JU.prototype={
 o5:function(a){var t,s,r,q,p,o,n=null
-switch(a){case"Company VAT number":t=L.d9(C.mf,C.k,n)
+switch(a){case"Factory name":t=L.d9(C.mf,C.k,n)
 break
 case"Company name":t=L.d9(C.qj,C.k,n)
 break
@@ -55650,7 +55650,7 @@ o=new P.ax(q,q)
 q=new P.ax(q,q)
 return L.ic(n,new F.bC(4,new K.aQ(p,p,p,p),C.d7),n,n,n,n,n,!0,n,new F.bC(4,new K.aQ(q,q,q,q),new Y.bA(C.bm,1,C.A)),n,n,n,r,!0,C.b4,n,n,new F.bC(4,new K.aQ(o,o,o,o),new Y.bA(C.bm,1,C.A)),!1,n,n,n,n,n,n,n,n,n,s,a,n,t,n,n,n,n,n,n,n,n,n)},
 OJ:function(){var t=this,s=null,r=t.d,q=t.e
-return M.F(s,E.mf(!1,s,t.o5("Company VAT number"),s,C.CX,!1,s,new F.a4f(t),A.bh(s,s,C.k,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s),new F.a4g()),s,s,s,s,q/14,s,s,s,r/1.12)},
+return M.F(s,E.mf(!1,s,t.o5("Factory name"),s,C.CX,!1,s,new F.a4f(t),A.bh(s,s,C.k,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s),new F.a4g()),s,s,s,s,q/14,s,s,s,r/1.12)},
 OI:function(){var t=this,s=null,r=t.d,q=t.e
 return M.F(s,E.mf(!1,s,t.o5("Company name"),s,C.oi,!1,s,new F.a4d(t),A.bh(s,s,C.k,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s),new F.a4e()),s,s,s,s,q/14,s,s,s,r/1.12)},
 pz:function(a,b){return this.XC(a,b)},
@@ -55680,7 +55680,7 @@ this.e=s.b
 return R.ck(new F.a4k(this),u.E)}}
 F.a4g.prototype={
 $1:function(a){var t=a.length
-if(t===0||t>30)return"Please enter a valid Company VAT number"}}
+if(t===0||t>30)return"Please enter a valid Factory name"}}
 F.a4f.prototype={
 $1:function(a){this.a.f.m(0,"companyVAT",a)}}
 F.a4e.prototype={
